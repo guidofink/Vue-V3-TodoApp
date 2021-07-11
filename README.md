@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-npm run backend
+npm run backend (en nuevo terminal)
 
 ### Compiles and hot-reloads for development
 ```
